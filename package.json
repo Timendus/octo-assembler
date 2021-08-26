@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JohnEarnest/Octo.git"
+    "url": "git+https://github.com/Timendus/octo-assembler"
   },
   "keywords": [
     "octo",
@@ -26,10 +26,10 @@
     "assembler",
     "assembly"
   ],
-  "author": "JohnEarnest, packaged for NPM by Timendus",
+  "author": "John Earnest, packaged for NPM by Timendus",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/JohnEarnest/Octo/issues"
   },
-  "homepage": "https://github.com/JohnEarnest/Octo#readme"
+  "homepage": "https://github.com/JohnEarnest/Octo#command-line-mode"
 }
