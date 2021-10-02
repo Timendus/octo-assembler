@@ -9,7 +9,11 @@
     "/octo/octo",
     "/octo/js/compiler.js",
     "/octo/js/decompiler.js",
-    "/octo/js/sharing.js"
+    "/octo/js/sharing.js",
+    "/octo/js/emulator.js",
+    "/octo/js/shared.js",
+    "/octo/js/input.js",
+    "/standalone.html"
   ],
   "bin": {
     "octo": "./octo/octo"
