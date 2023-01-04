@@ -1,3 +1,5 @@
+Repository deprecated, this has been moved to https://github.com/Timendus/chipcode/tree/main/octo-assembler
+
 # Octo assembler
 
 This package is just a very thin wrapper around
